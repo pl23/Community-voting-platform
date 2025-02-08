@@ -49,6 +49,8 @@ The trust system is a crucial component of the community governance model.  It a
 
 The current author of this project (me) serves as a *temporary* maintainer and decision-maker until the community governance and voting systems are fully implemented.  The long-term goal is to transition all control and ownership of the project to the community.  All decisions made by the author during this initial phase are intended to bootstrap the project and facilitate the transition to full community governance.  Once the voting system is in place, the author's role will shift to that of a regular contributor, and all future decisions will be made through community consensus.
 
+all detail are subject to change 
+
 ## Licensing
 
 This project is licensed under a non-monetizable open-source license (details to be finalized).
