@@ -1,4 +1,4 @@
-### Community-voting-platform-
+### Community-voting-platform
 
 # Decentralized & Community-voting-platform Data Framework
 
