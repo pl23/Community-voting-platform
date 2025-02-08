@@ -1,6 +1,6 @@
 ### Community-voting-platform-
 
-# Decentralized & Community-Governed Data Framework
+# Decentralized & Community-voting-platform Data Framework
 
 This project aims to create a decentralized and community-governed framework for managing and curating data.  The core principle is community ownership: all aspects of the framework's development, governance, and data curation will be controlled by the community through a built-in voting system.
 
